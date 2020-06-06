@@ -8,3 +8,4 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](../master/solutions/dp/121.java) |Easy
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](../master/solutions/dp/746.java) |Easy
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](../master/solutions/dp/392.java) |Easy
+|70|[Is Subsequence](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/solutions/dp/70.java) |Easy
