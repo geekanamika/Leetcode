@@ -9,4 +9,5 @@
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](../master/solutions/dp/746.java) |Easy
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](../master/solutions/dp/392.java) |Easy
 |70|[Is Subsequence](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/solutions/dp/70.java) |Easy
-|70|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](../master/solutions/dp/53.java) |Easy
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](../master/solutions/dp/53.java) |Easy
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Solution](../master/solutions/dp/198.java) |Easy
