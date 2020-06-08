@@ -12,4 +12,5 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](../master/solutions/dp/53.java) |Easy
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Solution](../master/solutions/dp/198.java) |Easy
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](../master/solutions/dp/303.java) |Easy
-|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](../master/solutions/dp/338.java) |Easy
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](../master/solutions/dp/338.java) |Medium
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Solution](../master/solutions/dp/1277.java) |Medium
