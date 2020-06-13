@@ -14,3 +14,4 @@
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Solution](../master/solutions/dp/303.java) |Easy
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](../master/solutions/dp/338.java) |Medium
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Solution](../master/solutions/dp/1277.java) |Medium
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Solution](../master/solutions/dp/72.java) |Hard
