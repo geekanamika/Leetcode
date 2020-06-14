@@ -17,3 +17,4 @@
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Solution](../master/solutions/dp/72.java) |Hard
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](../master/solutions/dp/91.java) |Hard
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Solution](../master/solutions/dp/1143.java) |Medium
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Solution](../master/solutions/dp/115.java) |Medium
